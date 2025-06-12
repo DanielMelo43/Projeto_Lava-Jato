@@ -1,8 +1,8 @@
 # Projeto_Lava-Jato
 Sistema para gerenciamento de Lava-Jato.
 Integrantes do Projeto Interdiciplinar: <br>
-Daniel Batista;
-Luis Henrique;
-Erika Monica;
-Larissa Evillyn;
-João Victor V. Nova
+Daniel Batista;<br>
+Luis Henrique;<br>
+Erika Monica;<br>
+Larissa Evillyn;<br>
+João Victor V. Nova<br>
